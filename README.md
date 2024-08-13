@@ -4,6 +4,11 @@ Este repositório contém as configurações personalizadas do meu terminal para
 
 [![GitHub](https://img.shields.io/badge/Visite-Meu%20Perfil-0891B2?style=flat-square&logo=github)](https://github.com/Tgentil)
 
+## Meu Terminal
+
+![Terminal](Terminal.png)
+
+
 ## Configuração
 
 ### Oh My Posh
